@@ -1,10 +1,23 @@
 body {
+
+  /*background :linear-gradient(
+    rgba(115, 190, 183),
+    rgb(212, 142, 216)
+   )!important; */
+   background :linear-gradient(
+    rgb(227, 225, 250),
+    rgb(124, 119, 172),
+    rgb(46, 26, 88)
+   )!important;
+
+ 
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
